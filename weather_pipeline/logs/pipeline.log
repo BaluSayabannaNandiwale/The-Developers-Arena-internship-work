@@ -1,0 +1,20 @@
+2025-12-22 14:15:56,563 - ERROR - Pipeline failed for Mumbai: OPENWEATHER API key is required
+2025-12-22 14:15:56,564 - ERROR - Pipeline failed for Delhi: OPENWEATHER API key is required
+2025-12-22 14:15:56,564 - ERROR - Pipeline failed for Bangalore: OPENWEATHER API key is required
+2025-12-22 14:15:56,564 - ERROR - Pipeline failed for Chennai: OPENWEATHER API key is required
+2025-12-22 14:15:56,564 - ERROR - Pipeline failed for Kolkata: OPENWEATHER API key is required
+2025-12-22 14:21:51,239 - ERROR - Pipeline failed for Mumbai: 401 Client Error: Unauthorized for url: https://api.openweathermap.org/data/2.5/weather?q=Mumbai&appid=7b6bb758a96c34ed55ab1afdb513db45&units=metric
+2025-12-22 14:21:53,519 - ERROR - Pipeline failed for Delhi: 401 Client Error: Unauthorized for url: https://api.openweathermap.org/data/2.5/weather?q=Delhi&appid=7b6bb758a96c34ed55ab1afdb513db45&units=metric
+2025-12-22 14:21:54,142 - ERROR - Pipeline failed for Bangalore: 401 Client Error: Unauthorized for url: https://api.openweathermap.org/data/2.5/weather?q=Bangalore&appid=7b6bb758a96c34ed55ab1afdb513db45&units=metric
+2025-12-22 14:21:54,700 - ERROR - Pipeline failed for Chennai: 401 Client Error: Unauthorized for url: https://api.openweathermap.org/data/2.5/weather?q=Chennai&appid=7b6bb758a96c34ed55ab1afdb513db45&units=metric
+2025-12-22 14:21:55,248 - ERROR - Pipeline failed for Kolkata: 401 Client Error: Unauthorized for url: https://api.openweathermap.org/data/2.5/weather?q=Kolkata&appid=7b6bb758a96c34ed55ab1afdb513db45&units=metric
+2025-12-22 14:24:07,931 - ERROR - Pipeline failed for Mumbai: 401 Client Error: Unauthorized for url: https://api.openweathermap.org/data/2.5/weather?q=Mumbai&appid=7b6bb758a96c34ed55ab1afdb513db45&units=metric
+2025-12-22 14:24:08,488 - ERROR - Pipeline failed for Delhi: 401 Client Error: Unauthorized for url: https://api.openweathermap.org/data/2.5/weather?q=Delhi&appid=7b6bb758a96c34ed55ab1afdb513db45&units=metric
+2025-12-22 14:24:09,088 - ERROR - Pipeline failed for Bangalore: 401 Client Error: Unauthorized for url: https://api.openweathermap.org/data/2.5/weather?q=Bangalore&appid=7b6bb758a96c34ed55ab1afdb513db45&units=metric
+2025-12-22 14:24:09,682 - ERROR - Pipeline failed for Chennai: 401 Client Error: Unauthorized for url: https://api.openweathermap.org/data/2.5/weather?q=Chennai&appid=7b6bb758a96c34ed55ab1afdb513db45&units=metric
+2025-12-22 14:24:10,271 - ERROR - Pipeline failed for Kolkata: 401 Client Error: Unauthorized for url: https://api.openweathermap.org/data/2.5/weather?q=Kolkata&appid=7b6bb758a96c34ed55ab1afdb513db45&units=metric
+2025-12-22 14:31:52,193 - ERROR - Pipeline failed for Mumbai: 401 Client Error: Unauthorized for url: https://api.openweathermap.org/data/2.5/weather?q=Mumbai&appid=7b6bb758a96c34ed55ab1afdb513db45&units=metric
+2025-12-22 14:31:53,099 - ERROR - Pipeline failed for Delhi: 401 Client Error: Unauthorized for url: https://api.openweathermap.org/data/2.5/weather?q=Delhi&appid=7b6bb758a96c34ed55ab1afdb513db45&units=metric
+2025-12-22 14:31:53,980 - ERROR - Pipeline failed for Bangalore: 401 Client Error: Unauthorized for url: https://api.openweathermap.org/data/2.5/weather?q=Bangalore&appid=7b6bb758a96c34ed55ab1afdb513db45&units=metric
+2025-12-22 14:31:54,935 - ERROR - Pipeline failed for Chennai: 401 Client Error: Unauthorized for url: https://api.openweathermap.org/data/2.5/weather?q=Chennai&appid=7b6bb758a96c34ed55ab1afdb513db45&units=metric
+2025-12-22 14:31:55,820 - ERROR - Pipeline failed for Kolkata: 401 Client Error: Unauthorized for url: https://api.openweathermap.org/data/2.5/weather?q=Kolkata&appid=7b6bb758a96c34ed55ab1afdb513db45&units=metric
