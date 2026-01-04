@@ -1,0 +1,13 @@
+{
+  "vocab_size": 142,
+  "max_length": 100,
+  "num_classes": 3,
+  "embedding_dim": 128,
+  "lstm_units": 64,
+  "batch_size": 32,
+  "epochs_trained": 28,
+  "final_train_loss": 0.0011480158427730203,
+  "final_val_loss": 8.72980490385089e-06,
+  "final_train_accuracy": 1.0,
+  "final_val_accuracy": 1.0
+}
