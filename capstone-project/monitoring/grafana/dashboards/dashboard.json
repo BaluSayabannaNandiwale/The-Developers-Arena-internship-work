@@ -1,0 +1,35 @@
+{
+  "dashboard": {
+    "title": "Real Estate Price Predictor - Metrics",
+    "panels": [
+      {
+        "title": "Prediction Rate",
+        "targets": [
+          {
+            "expr": "rate(predictions_total[5m])",
+            "legendFormat": "Predictions/sec"
+          }
+        ]
+      },
+      {
+        "title": "Prediction Latency",
+        "targets": [
+          {
+            "expr": "histogram_quantile(0.95, prediction_latency_seconds_bucket)",
+            "legendFormat": "95th percentile"
+          }
+        ]
+      },
+      {
+        "title": "Error Rate",
+        "targets": [
+          {
+            "expr": "rate(prediction_errors_total[5m])",
+            "legendFormat": "Errors/sec"
+          }
+        ]
+      }
+    ]
+  }
+}
+
